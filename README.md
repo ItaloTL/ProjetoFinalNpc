@@ -1,5 +1,5 @@
 # ProjetoFinalNpc
-[clique para baixar](dist/publish.zip)
+[clique para baixar](https://github.com/ItaloTL/ProjetoFinalNpc/raw/refs/heads/main/dist/publish.zip)
 Projeto Final exercício NPC 
 Grupo: Italo Trancoso Lopes; 
 Miguel Perassoli de Souza; 
