@@ -47,7 +47,7 @@ Miguel Perassoli de Souza
 Pedro Henrique Santiago
 
 
-Aquí estao alguns dos montros que poderão ser encontrados em sua incrível jornada (O final é surpresa😁):
+Aquí está dois exemplos fascinantes dos montros que poderão ser encontrados em sua incrível jornada (O final é surpresa😁):
 
 
                                                                              
