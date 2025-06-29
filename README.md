@@ -48,9 +48,9 @@ Nos esforçamos bastante e esperamos que você goste e aprecie o resultado tanto
 Muitíssimo obrigado! 🤗
 
 ## 👥 Integrantes
-Italo Trancoso Lopes
-Miguel Perassoli de Souza
-Pedro Henrique Santiago
+###Italo Trancoso Lopes
+###Miguel Perassoli de Souza
+###Pedro Henrique Santiago
 
 #### 🤯 Aqui estão alguns dos monstros que poderão ser encontrados em sua incrível jornada:
 (O final é surpresa! 😁)
