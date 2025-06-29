@@ -2,11 +2,12 @@
 
 [clique para baixar](https://github.com/ItaloTL/ProjetoFinalNpc/raw/refs/heads/main/dist/publish.zip)
 
-🧠 ProjetoFinalNpc
+#🧠 ProjetoFinalNpc
 
 Este é o Projeto Final de Inteligência Artificial para NPCs (Personagens Não Jogadores), desenvolvido pelos alunos Italo Trancoso Lopes, Miguel Perassoli de Souza e Pedro Henrique Santiago. A proposta consiste em criar um NPC com comportamento reativo e estados inteligentes, simulando interações de combate dentro de um jogo.
 
-🎯 Objetivo do projeto
+##🎯 Objetivo do projeto
+
 Desenvolver uma IA funcional para um NPC capaz de alternar entre quatro estados distintos:
 
 Procurando: Recupera-se e busca inimigos.
@@ -25,29 +26,33 @@ Ferido → Está gravemente ferido?
 
 Eliminado → Foi derrotado no combate?
 
-⚙️ Lógica da IA
+##⚙️ Lógica da IA
+
 A IA utiliza uma máquina de estados finitos (FSM) para definir as transições entre os estados, conforme as condições estabelecidas e eventos simulados aleatoriamente. A cada transição, o NPC pode curar-se, localizar inimigos, se ferir ou até morrer, conforme a situação.
 
-💡 Experiência do Jogador
+##💡 Experiência do Jogador
+
 Neste jogo, você acompanhará a jornada de um NPC até seu confronto final contra o FINAL BOSS. Veja-o crescer, lutar, sobreviver (ou não) e conquistar seu lugar como herói de seu mundo.
 
-👾Como funciona o jogo
+#👾Como funciona o jogo
 
 Assim que iniciar o jogo poderá escolher o nome do NPC (recomendo que coloque o seu nome e o de pessoas próximas para fazer uma competição entre quem consegui atingir mais feitos com o NPC, assim, intensificando a diversão do jogo), após decidir o nome do herói ele entrará em modo *Procurando*, enquanto procura o NPC pode encontrar monstros ou poções de cura, caso já esteja com a vida cheia a poção será considerada como vazia e então ele continuará *procurando*.
 Quando encontrar um monstro, ele pode ou não derrota-lo, caso seja morto terá a oportunidade de recomeçar sua jornada, se conseguir derrotar o monstro entrará em modo *procurando* novamente. 
 Após derrotar uma certa quantidade de monstros o NPC estará no fim de sua jornada pronto para finalmente enfrentar um boss final, uma criatura demasiadamente forte. Caso o derrote finalmente trará paz ao seu mundo e poderá descansar com seu mérito e recompensas.
 
-📌 Conclusão
+#📌 Conclusão
 Este projeto foi desenvolvido com o intuito de aplicar conceitos de inteligência artificial, simulação de estados e interatividade dentro de jogos de maneira bem visível e funcional, nos esforaçamos bastante então esperamos que goste e aprecie o resultado tanto quanto nos divertimos ao criá-lo!
 
-Muitíssimo obrigado!
+Muitíssimo obrigado!🤗
 
-Italo Trancoso Lopes
-Miguel Perassoli de Souza
-Pedro Henrique Santiago
+#Integrantes
+
+###Italo Trancoso Lopes
+###Miguel Perassoli de Souza
+###Pedro Henrique Santiago
 
 
-Aquí está dois exemplos fascinantes dos montros que poderão ser encontrados em sua incrível jornada (O final é surpresa😁):
+#🤯Aquí estao alguns dos montros que poderão ser encontrados em sua incrível jornada (O final é surpresa😁):
 
 
                                                                              
@@ -153,4 +158,27 @@ Aquí está dois exemplos fascinantes dos montros que poderão ser encontrados e
      ....::::++=-==#@%%%*@@@@@@@@@@@@@@@@@@@@@@*#**+=+*#*%%+++++===*#......  
      .....:::%*+===+@%%%%@@@@@@@%+@@%@@@@@@@@@#*=*****+-+%%*====+#*#%...     
      ......:#%%#=+++@%%%#@@@@@@@*@*@@@@@@@@@@@@@@**@**%#%%%#*+++#%@%%. .     
+   .......:::*%%%:=+@%##+@@@@@#@#%@@#*@@@@@@@@@@@@@###*@@%%%*=++#@#@=*... ...
+  ...:+++-:::=*#-==+@@##+@@@@@%@*#@#@%@@@@@@@@@@@@#@=%:@@%%%#+**%@%@...      
+  ...***++::::+*+=++@@##*@@@@@@%#####@@@@@@@@@@@@@%%@*%=#@@@##+*%@@@.......  
+  ...***++=:::+*=+#%@@#**%%%@@@%%#*#%@@@@@@@@@@@@@%%@%@@@@@@+#**#@@%***:...  
+   ..:++**-.-=++####@@***%%%%%%@%%+#%@@@@@@@@@@@@@**@@@@@@@@+*++%@%%***:.....
+    ..=**-:-=+*#**##@@++#%%%%%%@%##%@@@@@@@@@@@@@@=%%%%%@@@@+++*%%%%%++......
+   ...:=:-%%%%**##+#@@*=%%%%%%%%%@#%@@@@@@@@@@@@@*#*##%%@@@@++**@%%%%+=....  
+   ....--:=++++%#@#*@@*=%%%%%%%%@%%@@@@@@@@@@@@@****#*#%%@@@#***@%%%%%=....  
+   ..-.:---*+@@@%@%@@@*=#%%%%%@@%%%@@@@@@@@@@@@*====*##@%@@@@**#%%%%%%-....  
+   ..-:..:-#%@#%@%%%@@%-#%%%%%%%@%%@@@@@@@@@@@*=-==***%%@@@@@#**#%%%##:....  
+.... ::.:-**%@%%%@%#%@@-*#%%%%%@%%%@@@%@@@@@@@#+=+***%@@%@@@@#*++%%%#+::..   
+......-:-.-+:+#%@%@@%@@-=+%%%%%%@@%@@@@@@@@@@+%+**##@@@@@%%%#**#+%###=-:::.  
+.......--:*=%%#%%%@%+@@-=--*##%%%%%@@@@@@@@**#%%%%%%@@@@%%##**#+###*=---::.  
+..  ...-+*+*#+*%@%%#%@%=--==#%@%%%@@%@@@@=#*%%@@@@@%%%%##*=+*+***#*=====-:.  
+    ..:-=+++*#*==++=#%%####%%%%@%@%%%##*#%%#@@@@%%%%%%%*=+++*##**+===++=-:.  
+  ..:::--=+++*****#=*%##***#%%#%%%%@@@%#=**#+#@%%%%+##%**#%%##*****++*+=:..  
+....::---=-+**++#*+*#%%%#==-=++==++*##%%@@%%%@@%@%@*@#@#%%#####***+**+=-.....
+....:--==++++==+==+*##+#++=+*+=+++*+*%%%%%%%##@@%%%%%%%######***+**+*+=-.....
+   .----=====--==***######*+===---:-::-=+++++++++=+**#*#@%*****#*****=--.....
+.....-==--=++##***%%*+=--=---+*+=-=--=---=++==+==+++*+##%##%%%#+*++==::..... 
+..  .......-::... ..:----==-=:-==+**+==-+*+***-=-=++#**=.:-..::--.::.......  
+..  ...................:::...::...::-:-=+===+=-=+***- .....................  
+  ....... ......................... ................................  .......
   .......              .......       ..... .........  ....    ......      ... 
